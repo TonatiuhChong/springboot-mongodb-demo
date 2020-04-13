@@ -1,0 +1,10 @@
+com\example\demo\QAddress.class
+com\example\demo\Address.class
+com\example\demo\HotelController.class
+com\example\demo\HotelRepository.class
+com\example\demo\Review.class
+com\example\demo\SpringbootMongodbDemoApplication.class
+com\example\demo\QHotel.class
+com\example\demo\DbSeeder.class
+com\example\demo\Hotel.class
+com\example\demo\QReview.class
